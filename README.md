@@ -1,6 +1,7 @@
 <h1>Cronometer</h1>
 <br>
-<p>Projeto feito com foco no estudo e aprendizado</p>
+<p>Projeto feito com foco no estudo e aprendizado<br>
+Com conceitos aprendidos no <a href="https://rodolfomori.com.br/">DevClub</a></p>
 <h2>Descrição</h2>
 <p align="left">Projeto criado usando html, css e JavaScript<br>
 Um simples cronometro mas com funcionalidades mais avançadas <br> sempre visando alguns possíveis erros na aplicação.
