@@ -17,10 +17,9 @@ Um simples cronometro mas com funcionalidades mais avançadas <br> sempre visand
 <br>
 <br>
 <br>
-<img>
+<img src="https://github.com/PedroBrandaoSilva/Cronometer/blob/main/assets/image.png?raw=true">
 <br>
 <br>
 <br>
 <p align="center" >
-<img >
 </p>
